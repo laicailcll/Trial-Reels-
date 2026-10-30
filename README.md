@@ -7,6 +7,8 @@ Reusable worksheets for creators reviewing an Instagram Trial Reel. These files 
 - `review-log.csv`: a blank review log. Keep unavailable metrics blank rather than entering zero.
 - `content-fit.csv`: an editorial comparison of audience questions and their limits.
 - `publishing-checklist.md`: preparation and review checklist.
+- [daily-count-log.csv](daily-count-log.csv): blank per-trial rows for comparing existing and added posting slots.
+- [daily-count-method.md](daily-count-method.md): filling instructions, denominator checks and limits of a workload comparison.
 
 ## Use
 
